@@ -328,7 +328,7 @@ Step 6. Run Command ```npm run dev``` Or ```npm start```
     ]
 
    - **Screenshots**
-   ![App Screenshot](Photo/Get_all_patients.png)
+   ![App Screenshot](Photo/Get_all_patient.png)
 
 - 3.3 Get specific Patient by Id
    - **GET** /api/patients/:id
